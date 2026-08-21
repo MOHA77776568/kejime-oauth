@@ -1,0 +1,14 @@
+{
+    "client_id":  "https://moha77776568.github.io/kejime-oauth/binance-agentic-client.json",
+    "client_name":  "Kejime",
+    "redirect_uris":  [
+                          "http://127.0.0.1:8200/api/binance-agentic/oauth/callback"
+                      ],
+    "grant_types":  [
+                        "authorization_code"
+                    ],
+    "response_types":  [
+                           "code"
+                       ],
+    "token_endpoint_auth_method":  "none"
+}
